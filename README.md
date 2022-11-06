@@ -4,4 +4,4 @@
 
 ## 💼 Como usar ?
 
-![]("https://i.imgur.com/WFwWlxP.mp4")
+![](use.gif)
