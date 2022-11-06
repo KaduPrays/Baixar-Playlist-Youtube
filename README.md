@@ -4,4 +4,4 @@
 
 ## 💼 Como usar ?
 
-<img src="https://imgur.com/a/NRUykO7" />
+![]("https://imgur.com/a/NRUykO7")
