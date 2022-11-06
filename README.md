@@ -4,4 +4,4 @@
 
 ## 💼 Como usar ?
 
-Teste
+<img src="https://imgur.com/a/NRUykO7" />
